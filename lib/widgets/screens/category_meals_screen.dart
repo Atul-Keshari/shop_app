@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:shop_app/models/meals.dart';
 import 'package:shop_app/widgets/meal_item.dart';
 
-import '../../dummy_data.dart';
 
 class CategoryMealsScreen extends StatefulWidget {
   // final String id;
